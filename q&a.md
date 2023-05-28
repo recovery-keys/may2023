@@ -5,8 +5,8 @@
 | ------------- | ------------- |-------------  |
 | 1  | year I graduated? |  numeric | 
 | 2  | sport done by hunter & xanths ? | single word  | 
-| 3  | Batalanda club Thilina is better in ______. | single word  | 
-| 4  | Kiribathgoda Denim center was located in : ___ floor | double word | 
+| 3  | In swiming, Thilina is better in ______. | single word  | 
+| 4  | Kiri. Denim center was located in : ___ floor | double word | 
 | 5  | N was I's __ GF |  numeric | 
 | 6  | the currency I put to acx is worth 5000 AUD ? | abbreviation | 
 | 7  | place where Rasika and Priyantha worked? | two words  | 
@@ -46,11 +46,11 @@
 | 41 | sob's uni. number  | numeric  | 
 | 42 | year I met my mom?   | numeric  | 
 | 43 | the brand of the 1st item SOB stall from me?  | single word  | 
-| 44 |  year i was admitted to my 1st university  | numeric  | 
-| 45 |  bjj Benjamin's home country flag colours?  | multiple words  | 
-| 46 |  IDM 1st batch number   | numeric  | 
-| 47 |  breed of the brother who came to inform pabs about they are living?   | single word  | 
-| 48 |  n's old phone number   | number  | 
+| 44 | year i was admitted to my 1st university  | numeric  | 
+| 45 | bjj Benjamin's home country flag colours?  | multiple words  | 
+| 46 | IDM 1st batch number   | numeric  | 
+| 47 | breed of the brother who came to inform pabs about they are living?   | single word  | 
+| 48 | n's old phone number   | number  | 
 | 49 | xanthan and the hunter were met using ______ app. | abbreviation |
 | 50 | Jack & Rose is from (country) ? | image |
 | 51 | name of the store caught me steeling and dracular was an employee of. | name of the store |
@@ -65,8 +65,10 @@
 | 60 | hc case wepon | image  |
 | 61 | junior lawyer who draged ict and hc case was from ____?  | name of the suberb |
 | 62 | resembles pabs in color | image  |
-| 63 | resembles pabs dog cousins | image  |
-| 64 | website name who taught us 1st subject | name  |
-| 65 | 1st pc was bought from | name  |
-| 66 | i was in ____ team when i worked for a bank. | image  |
-| 67 | got caught when i bought a ____ when i first arrived. | image  |
+| 63 | website name who taught us 1st subject | single word  |
+| 64 | i's 1st pc was bought from ____ (shop name) | single word  |
+| 65 | i was in ____ team when n worked for a bank. | image  |
+| 66 | got caught when i bought a ____ when i first arrived. | image  |
+| 67 | name of the i & n's favourite jungle when we 1st met. | single word | 
+| 68 | chaminda was killed in _____ prision. | name of the suberb |
+| 69 | priyantha was killed in _____ prision. | name of the suberb |
